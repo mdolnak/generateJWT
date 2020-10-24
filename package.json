@@ -1,0 +1,14 @@
+{
+  "name": "jwt-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jose": "^2.0.2"
+  },
+  "scripts": {
+    "generate": "node index.js",
+   },
+  "author": "",
+  "license": "ISC"
+}
